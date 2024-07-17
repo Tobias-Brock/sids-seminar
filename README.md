@@ -1,1 +1,3 @@
-# sids-seminar
+# Seminar: Statistical Inference in Data Science
+
+This seminar was part of the fulfillment for the Master's degree in "Statistics and Data Science" at Ludwig-Maximilians University. It covers the challenges of statistical inference in deep neural networks, discussing both frequentist approaches (or lack thereof) and Bayesian deep learning. Furthermore, statistical inference in stochastic gradient descent is also discussed. Specifically, a simple implementation of a bivariate linear regression setup for the batch-means and Lugsail estimator, using averaged SGD as proposed by Singh et al. (2023), can be found in the sgd_inference_implementation.ipynb notebook.
